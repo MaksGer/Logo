@@ -1,0 +1,16 @@
+#wrapper {
+    color: black;
+    height: 250px;
+    background-color: rgb(18, 70, 166);
+}
+#wrapped {
+    border: 1px solid white;
+    filter:brightness(85%);
+    color: white;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(18, 70, 166);
+}
